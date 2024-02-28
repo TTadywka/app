@@ -33,7 +33,7 @@
       >const message: string = 'Hello, TypeScript!';
       >
       >console.log(message);
-3. Установил ts-node:
+3. Установка ts-node:
     - Установил библиотеку `ts-node`, которая позволяет запускать TypeScript файлы напрямую, выполнив команду:
     npm install -g ts-node
 
